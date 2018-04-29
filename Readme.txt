@@ -1,3 +1,5 @@
+The code and the JAR file is in the Evaluation_Wiki folder.
+
 The code can be executed by copying TestWikipedia.jar in C:\Selenium or any other direcotry and executing the commandline command
 C:\Selenium>java -jar TestWikipedia.jar.
 
